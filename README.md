@@ -6,3 +6,6 @@ Nota: No olvidar escribir los cambios hechos
 - Creacion del servidor forge en la 1.20.1
 - Discord bot añadido
 - Backups en Dropbox
+
+1.1 Server 
+-Terralith instalado
