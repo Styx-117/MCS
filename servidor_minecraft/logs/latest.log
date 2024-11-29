@@ -1,0 +1,44 @@
+[00:01:31] [Server thread/INFO]: Sapo_perro has made the advancement [Hidden in the Depths]
+[00:03:14] [Server thread/INFO]: Sapo_perro tried to swim in lava
+[00:04:20] [Server thread/INFO]: [Styx312: Set own game mode to Creative Mode]
+[00:04:24] [Server thread/INFO]: [Styx312: Set own game mode to Survival Mode]
+[00:05:51] [Server thread/INFO]: Sapo_perro tried to swim in lava
+[00:07:22] [Server thread/INFO]: [Styx312: Set own game mode to Creative Mode]
+[00:07:27] [Server thread/INFO]: [Styx312: Set own game mode to Survival Mode]
+[00:08:38] [Server thread/INFO]: [Styx312: Gave 32 [Arrow] to Styx312]
+[00:08:39] [Server thread/INFO]: Sapo_perro tried to swim in lava
+[00:08:43] [Server thread/INFO]: [Styx312: Gave 1 [Bow] to Styx312]
+[00:10:08] [Server thread/INFO]: Bodoque21- has made the advancement [Not Today, Thank You]
+[00:10:53] [Server thread/INFO]: [Styx312: Set own game mode to Creative Mode]
+[00:11:10] [Server thread/INFO]: Sapo_perro tried to swim in lava
+[00:11:44] [Server thread/INFO]: [Styx312: Set own game mode to Survival Mode]
+[00:16:29] [Server thread/INFO]: Sapo_perro tried to swim in lava
+[00:18:15] [Server thread/INFO]: [Sapo_perro: Teleported Bodoque21- to Sapo_perro]
+[00:18:29] [Server thread/INFO]: Bodoque21- was slain by Sapo_perro
+[00:19:32] [Server thread/INFO]: Bodoque21- drowned
+[00:20:20] [Server thread/INFO]: Bodoque21- drowned
+[00:21:58] [Server thread/INFO]: [Styx312: Set own game mode to Creative Mode]
+[00:21:59] [Server thread/INFO]: Bodoque21- was doomed to fall
+[00:24:24] [Server thread/INFO]: [Styx312: Teleported Styx312 to Bodoque21-]
+[00:27:45] [Server thread/INFO]: Sapo_perro was impaled by Drowned
+[00:28:34] [Server thread/INFO]: [Styx312: Applied effect Glowing to 3 targets]
+[00:29:01] [Server thread/INFO]: Sapo_perro lost connection: Timed out
+[00:29:01] [Server thread/INFO]: Sapo_perro left the game
+[00:47:30] [Server thread/INFO]: Bodoque21- was burned to a crisp while fighting Zombie
+[00:48:56] [Server thread/INFO]: Bodoque21- lost connection: Timed out
+[00:48:56] [Server thread/INFO]: Bodoque21- left the game
+[00:49:04] [Server thread/INFO]: [Styx312: Set the time to 1000]
+[00:50:39] [Server thread/INFO]: [Styx312: Successfully filled 348 block(s)]
+[00:51:27] [Server thread/INFO]: Styx312 lost connection: Timed out
+[00:51:27] [Server thread/INFO]: Styx312 left the game
+[01:17:10] [Server thread/INFO]: Stopping the server
+[01:17:10] [Server thread/INFO]: Stopping server
+[01:17:10] [Server thread/INFO]: Saving players
+[01:17:10] [Server thread/INFO]: Saving worlds
+[01:17:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:17:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:17:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:17:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:17:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:17:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:17:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
